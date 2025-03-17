@@ -6,7 +6,7 @@ class MiniDB:
         """Initialize MiniDB with a KV store."""
         self.kv_store = KVStore(db_name)
         self.tables = {}
-
+   
     def create_table(self, table_name):
         """Create a new table."""
         if table_name not in self.tables:
