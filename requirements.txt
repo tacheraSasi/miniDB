@@ -1,0 +1,10 @@
+# Core dependencies
+shelve-anything>=1.0.0  # Enhanced shelve functionality
+typing-extensions>=4.7.1  # Additional typing support
+
+# Development dependencies
+pytest>=7.4.0  # Testing framework
+pytest-cov>=4.1.0  # Test coverage
+black>=23.7.0  # Code formatting
+mypy>=1.5.1  # Static type checking
+flake8>=6.1.0  # Code linting
