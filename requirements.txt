@@ -1,5 +1,4 @@
 # Core dependencies
-shelve-anything>=1.0.0  # Enhanced shelve functionality
 typing-extensions>=4.7.1  # Additional typing support
 
 # Development dependencies
